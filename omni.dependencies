@@ -1,0 +1,14 @@
+[
+  {
+    "remote":"github",
+    "repository": "snowwolf725/FindX-8.1-kernel-source",
+    "target_path": "kernel/oppo/pafm00",
+    "revision":"master"
+  },
+  {
+    "remote":"github",
+    "repository": "omnirom/android_device_qcom_caf-sepolicy",
+    "target_path": "device/qcom/sepolicy",
+    "revision":"android-8.1"
+  }
+]
