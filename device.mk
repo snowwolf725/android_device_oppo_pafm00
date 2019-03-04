@@ -121,7 +121,8 @@ PRODUCT_PACKAGES += \
     DeviceParts
 
 PRODUCT_PACKAGES += \
-    vndk_package
+    vndk_package \
+    vndk-sp
 
 PRODUCT_PACKAGES += \
     android.hidl.manager@1.0-java \
