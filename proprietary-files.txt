@@ -307,7 +307,6 @@ vendor/bin/xxd
 vendor/bin/yes
 vendor/bin/zcat
 vendor/compatibility_matrix.xml
-vendor/default.prop
 vendor/etc/17107/audio_policy_configuration.xml
 vendor/etc/17107/audio_policy_volumes.xml
 vendor/etc/17107/default_volume_tables.xml
